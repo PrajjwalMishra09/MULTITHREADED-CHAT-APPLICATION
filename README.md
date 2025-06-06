@@ -95,4 +95,4 @@ These programs were run using BlueJ in three separate windows: one for the serve
 
 The BlueJ output screen (included as an image) shows the server console with connected clients and messages being broadcast correctly. Both clients receive each other’s messages, demonstrating real-time communication.
 
-OUTPUT: 
+OUTPUT: ![Image](https://github.com/user-attachments/assets/8847490c-d322-45f2-9cbc-5c603d66612b)
